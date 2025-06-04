@@ -2,7 +2,9 @@
 <h1 align="center">
  
  <a href="https://aayushbharti.in/" target="_blank">
- <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello,+I'm+Anton" alt="Hey there 🙋‍♂️, I'm Anton" /></a></h1>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello,+I'm+Anton&lines=hello" alt="Hey there 🙋‍♂️, I'm Anton" />
+ </a>
+ </h1>
 
   <a href="https://aayushbharti.in/">
     <img
@@ -11,23 +13,6 @@
       width="100%"
     />
   </a>
-
-<!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
-  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    Hi, I'm Anton,
-  </span>
-  <span style="display: inline-block; vertical-align: middle;">
-    <img
-      src="https://aayushbharti.in/2.jpg"
-      alt="Anton"
-      width="80"
-      style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
-    />
-  </span>
-  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    a Full Stack Developer based in India.
-  </span>
-</div> -->
 
 <br/>
 
