@@ -46,11 +46,9 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in) -->
 <!-- &#8287;&#8287; -->
 <!-- <a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
-<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
 <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Aayush Bharti | Twitter" ></img></a>
 <a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
 <a href="https://github.com/AayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
