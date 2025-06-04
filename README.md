@@ -4,7 +4,7 @@
 
   <a href="https://aayushbharti.in/">
     <img
-      alt="Aayush Bharti"
+      alt="Anton"
       src="./assets/banner.jpg"
       width="100%"
     />
@@ -12,12 +12,12 @@
 
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    Hi, I'm Aayush Bharti,
+    Hi, I'm Anton,
   </span>
   <span style="display: inline-block; vertical-align: middle;">
     <img
       src="https://aayushbharti.in/2.jpg"
-      alt="Aayush Bharti"
+      alt="Anton"
       width="80"
       style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
     />
