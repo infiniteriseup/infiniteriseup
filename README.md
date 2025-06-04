@@ -1,7 +1,8 @@
 
 <h1 align="center">
  
- <a href="https://aayushbharti.in/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello,+I'm+Anton" alt="Hey there 🙋‍♂️, I'm Anton" /></a></h1>
+ <a href="https://aayushbharti.in/" target="_blank">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello,+I'm+Anton" alt="Hey there 🙋‍♂️, I'm Anton" /></a></h1>
 
   <a href="https://aayushbharti.in/">
     <img
