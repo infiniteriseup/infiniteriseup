@@ -14,8 +14,8 @@
 <h3>A Full Stack Developer</h3>
 
 <p>
-**As a <strong>developer</strong>, I've worked on a variety of projects across different industries.**
-Clients and fellow developers have consistently given positive feedback, and I’m always striving to exceed expectations.
+As a <strong>developer</strong>, I've worked on a variety of projects across different industries.
+<strong>Clients</strong> and <strong>fellow developers</strong> have consistently given positive feedback, and I’m always striving to exceed expectations.
 I’m confident in handling any project related to full-stack development.
 Hiring me means a reliable partnership that brings value to both sides.
 </p>
