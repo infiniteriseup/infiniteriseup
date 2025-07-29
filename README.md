@@ -1,13 +1,13 @@
 <h1 align="center">
  
  <a href="https://infiniteriseup.in/" target="_blank">
- <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello,+I'm+Anton+Ivanov;Full+Stack+Developer" alt="Hey there 🙋‍♂️, I'm Anton" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello,+Welcome+To+My+GitHub;Full+Stack+Developer" alt="Hey there 🙋‍♂️, I'm Anton" />
  </a>
  </h1>
 
 <br/>
 
-<a href="https://github.com/infiniteriseup" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
+<a href="https://github.com/infiniteriseup" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png">
 <a href="https://github.com/infiniteriseup" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
