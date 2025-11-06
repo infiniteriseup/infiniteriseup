@@ -108,14 +108,3 @@ Hiring me means a reliable partnership that brings value to both sides.
 
 <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=infiniteriseup&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  /></a>
-</div>
-<div align=center>
-<!-- 🐍 GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/infiniteriseup/infiniteriseup/output/snake.svg" alt="Snake animation" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
